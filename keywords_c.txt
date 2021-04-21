@@ -135,9 +135,6 @@ c\97.htm
 c\98.htm
 c\99.htm
 c\all.htm
-c\backup_and_restore.htm
-c\blog.xmarks.com.html
-c\bookmark_sync.htm
 c\c_1.htm
 c\c_130.htm
 c\c_2.0.html
