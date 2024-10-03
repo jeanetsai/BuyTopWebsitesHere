@@ -1,6 +1,6 @@
 # SampleTopWebsites
 
-Top websites extracted from top 100,000 websites worldwide 2019
+Top websites about popular topics extracted from top 100,000 websites worldwide 2019
 
 Contact <tsaiforhr@gmail.com> for payment or more information！
 
